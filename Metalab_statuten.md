@@ -105,13 +105,13 @@ Hinzu kommt als unterstützendes ideelles Mittel die Bereitstellung der technisc
 
 (4) Die Mitglieder sind in jeder Generalversammlung vom Vorstand über die Tätigkeit und finanzielle Gebarung des Vereins zu informieren. Wenn mindestens ein Zehntel der Mitglieder dies unter Angabe von Gründen verlangt, hat der Vorstand den betreffenden Mitgliedern eine solche Information auch sonst binnen vier Wochen zu geben.
 
-(5) Die Mitglieder sind vom Vorstand über den geprüften Rechnungsabschluss (Rechnungslegung) zu informieren. Geschieht dies in der Generalversammlung, sind die Rechnungsprüfer*innen einzubinden.
+(5) Die Mitglieder sind vom Vorstand über den geprüften Rechnungsabschluss (Rechnungslegung) zu informieren. Geschieht dies in der Generalversammlung, sind die Rechnungsprüfer\*innen einzubinden.
 
 (6) Die Mitglieder sind verpflichtet, die Interessen des Vereins nach Kräften zu fördern und alles zu unterlassen, wodurch das Ansehen und der Zweck des Vereins Abbruch erleiden könnte. Insbesondere müssen die Mitglieder das Metalab und dessen Ausstattung und Einrichtungen zu jedem Zeitpunkt pfleglich und mit der gebotenen Sorgfalt behandeln. Sie haben die Vereinsstatuten und die Beschlüsse der Vereinsorgane zu beachten. Die ordentlichen und fördernden Mitglieder sind zur pünktlichen Zahlung der Beitrittsgebühr und der Mitgliedsbeiträge in der von der Generalversammlung beschlossenen Höhe verpflichtet. Ist ein Mitglied mit der Zahlung seiner Beiträge im Rückstand, so ruhen alle dessen Rechte mit Ausnahme des passiven Wahlrechts bis zur vollständigen Zahlung der Beiträge.
 
 
 ## § 8: Vereinsorgane
-Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§§11 bis 13), die Rechnungsprüfer*innen (§ 14) und das Schiedsgericht (§ 15).
+Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§§11 bis 13), die Rechnungsprüfer\*innen (§ 14) und das Schiedsgericht (§ 15).
 
 
 ## § 9: Generalversammlung
@@ -124,9 +124,9 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 
 (b) schriftlichen Antrag von mindestens einem Zehntel der Mitglieder,
 
-(c) Verlangen der Rechnungsprüfer*innen (§ 21 Abs. 5 erster Satz VereinsG),
+(c) Verlangen der Rechnungsprüfer\*innen (§ 21 Abs. 5 erster Satz VereinsG),
 
-(d) Beschluss eines/einer oder mehrerer Rechnungsprüfer*innen (§ 21 Abs.5 zweiter Sat zVereinsG, § 14 Abs.2 dritter Satz dieser Statuten),
+(d) Beschluss eines/einer oder mehrerer Rechnungsprüfer\*innen (§ 21 Abs.5 zweiter Sat zVereinsG, § 14 Abs.2 dritter Satz dieser Statuten),
 
 (e) Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten)
 
@@ -152,11 +152,11 @@ Der Generalversammlung sind folgende Aufgaben vorbehalten:
 
 (1) Beschlussfassung über den Voranschlag;
 
-(2) Entgegennahme und Genehmigung des Rechenschaftsberichts und des Rechnungsabschlusses unter Einbindung der Rechnungsprüfer*innen;
+(2) Entgegennahme und Genehmigung des Rechenschaftsberichts und des Rechnungsabschlusses unter Einbindung der Rechnungsprüfer\*innen;
 
-(3) Wahl und Enthebung der Mitglieder des Vorstands und der Rechnungsprüfer*innen;
+(3) Wahl und Enthebung der Mitglieder des Vorstands und der Rechnungsprüfer\*innen;
 
-(4) Genehmigung von Rechtsgeschäften zwischen Rechnungsprüfer*innen und Verein;
+(4) Genehmigung von Rechtsgeschäften zwischen Rechnungsprüfer\*innen und Verein;
 
 (5) Entlastung des Vorstands;
 
@@ -171,20 +171,20 @@ Der Generalversammlung sind folgende Aufgaben vorbehalten:
 
 ## § 11: Vorstand
 
-(1) Der Vorstand besteht aus mindestens drei Mitgliedern, und zwar aus Obmann/Obfrau, Schriftführer*in, sowie Kassier*in und soweit von der Generalversammung gewählt auch jeweils  Stellvertreter*in von Obmann/Obfrau, Schriftführer*in, sowie Kassier*in. Zusätzlich kann der Vorstand bis zu drei Beisitzer zur Erfüllung eines spezifisches Aufgabengebiets bestellen.
+(1) Der Vorstand besteht aus mindestens drei Mitgliedern, und zwar aus Obmann/Obfrau, Schriftführer\*in, sowie Kassier\*in und soweit von der Generalversammung gewählt auch jeweils  Stellvertreter\*in von Obmann/Obfrau, Schriftführer\*in, sowie Kassier\*in. Zusätzlich kann der Vorstand bis zu drei Beisitzer zur Erfüllung eines spezifisches Aufgabengebiets bestellen.
 
-(2) Der Vorstand wird von der Generalversammlung gewählt. Der Vorstand hat bei Ausscheiden eines gewählten Mitglieds das Recht, an seine Stelle ein anderes wählbares Mitglied zu kooptieren. Hierfür ist die nachträgliche Genehmigung in der nächstfolgenden Generalversammlung einzuholen. Beim Ausscheiden eines Beisitzers kann dessen Position auch gestrichen werden. Fällt der Vorstand ohne Selbstergänzung durch Kooptierung überhaupt oder auf unvorhersehbar lange Zeit aus, so ist jede/r Rechnungsprüfer*in verpflichtet, unverzüglich eine außerordentliche Generalversammlung zum Zweck der Neuwahl eines Vorstands einzuberufen. Sollten auch die Rechnungsprüfer*innen handlungsunfähig sein, hat jedes ordentliche Mitglied, das die Notsituation erkennt, unverzüglich die Bestellung eines Kurators beim zuständigen Gericht zu beantragen, der umgehend eine außerordentliche Generalversammlung einzuberufen hat.
+(2) Der Vorstand wird von der Generalversammlung gewählt. Der Vorstand hat bei Ausscheiden eines gewählten Mitglieds das Recht, an seine Stelle ein anderes wählbares Mitglied zu kooptieren. Hierfür ist die nachträgliche Genehmigung in der nächstfolgenden Generalversammlung einzuholen. Beim Ausscheiden eines Beisitzers kann dessen Position auch gestrichen werden. Fällt der Vorstand ohne Selbstergänzung durch Kooptierung überhaupt oder auf unvorhersehbar lange Zeit aus, so ist jede/r Rechnungsprüfer\*in verpflichtet, unverzüglich eine außerordentliche Generalversammlung zum Zweck der Neuwahl eines Vorstands einzuberufen. Sollten auch die Rechnungsprüfer\*innen handlungsunfähig sein, hat jedes ordentliche Mitglied, das die Notsituation erkennt, unverzüglich die Bestellung eines Kurators beim zuständigen Gericht zu beantragen, der umgehend eine außerordentliche Generalversammlung einzuberufen hat.
 
 (3) Die Funktionsperiode des Vorstands beträgt ein Jahr. Eine Wiederwahl ist möglich. Jede Funktion im Vorstand ist persönlich auszuüben.
 
-(4) Der Vorstand wird vom Obmann/von der Obfrau, bei Verhinderung dessen/deren Stellvertreter*in ansonsten von dem/der Schriftführer*in oder dessen/deren Stellvertreter*in,
+(4) Der Vorstand wird vom Obmann/von der Obfrau, bei Verhinderung dessen/deren Stellvertreter\*in ansonsten von dem/der Schriftführer\*in oder dessen/deren Stellvertreter\*in,
 schriftlich oder mündlich einberufen. Ist auch diese/r auf unvorhersehbar lange Zeit verhindert, darf jedes sonstige Vorstandsmitglied den Vorstand einberufen.
 
 (5) Der Vorstand ist beschlussfähig, wenn alle seine Mitglieder eingeladen wurden und mindestens die Hälfte von ihnen anwesend ist.
 
 (6) Der Vorstand fasst seine Beschlüsse mit einfacher Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme des/der Vorsitzenden den Ausschlag.
 
-(7) Den Vorsitz führt der/die Obmann/Obfrau, bei Verhinderung deren/dessen Stellvertreter*in. Ansonsten obliegt der Vorsitz dem an Jahren ältesten anwesenden Vorstandsmitglied oder jenem Vorstandsmitglied, das die übrigen Vorstandsmitglieder mehrheitlich dazu bestimmen.
+(7) Den Vorsitz führt der/die Obmann/Obfrau, bei Verhinderung deren/dessen Stellvertreter\*in. Ansonsten obliegt der Vorsitz dem an Jahren ältesten anwesenden Vorstandsmitglied oder jenem Vorstandsmitglied, das die übrigen Vorstandsmitglieder mehrheitlich dazu bestimmen.
 
 (8) Außer durch den Tod und Ablauf der Funktionsperiode (Abs. 3) erlischt die Funktion eines Vorstandsmitglieds durch Enthebung (Abs. 9) und Rücktritt (Abs. 10).
 
@@ -215,7 +215,7 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das Leitungsorgan im Sinne 
 
 ## § 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder
 
-(1) Der/die Obmann/Obfrau führt die laufenden Geschäfte des Vereins. Der/die Schriftführer*in unterstützt den/die Obmann/Obfrau bei der Führung der Vereinsgeschäfte.
+(1) Der/die Obmann/Obfrau führt die laufenden Geschäfte des Vereins. Der/die Schriftführer\*in unterstützt den/die Obmann/Obfrau bei der Führung der Vereinsgeschäfte.
 
 (2) Der/die Obmann/Obfrau vertritt den Verein nach außen. Schriftliche Ausfertigungen des Vereins bedürfen zu ihrer Gültigkeit der Unterschriften des/der Obmanns/Obfrau und des/der Schriftführers/Schriftführerin, in Geldangelegenheiten (vermögenswerte Dispositionen) des/der Obmanns/Obfrau und des Kassiers/der Kassierin. Rechtsgeschäfte zwischen Vorstandsmitgliedern und Verein bedürfen der Zustimmung eines anderen Vorstandsmitglieds.
 
@@ -225,31 +225,31 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das Leitungsorgan im Sinne 
 
 (5) Der/die Obmann/Obfrau führt den Vorsitz im Vorstand.
 
-(6) Der/die Schriftführer*in führt die Protokolle der Generalversammlung und des Vorstands.
+(6) Der/die Schriftführer\*in führt die Protokolle der Generalversammlung und des Vorstands.
 
-(7) Der/die Kassier*in ist für die ordnungsgemäße Geldgebarung des Vereins verantwortlich.
+(7) Der/die Kassier\*in ist für die ordnungsgemäße Geldgebarung des Vereins verantwortlich.
 
-(8) Im Fall der Verhinderung treten an die Stelle des/der Obmanns/Obfrau, des Schriftführers/der Schriftführerin oder des Kassiers/der Kassierin ihre Stellvertreter*innen. Wurden der/die Stellvertreter*in nicht gewählt, so kann das jeweilige verhinderte Vorstandsmitglied durch die anderen gewählten Vorstandsmitglieder gemeinsam vertreten werden.
+(8) Im Fall der Verhinderung treten an die Stelle des/der Obmanns/Obfrau, des Schriftführers/der Schriftführerin oder des Kassiers/der Kassierin ihre Stellvertreter\*innen. Wurden der/die Stellvertreter\*in nicht gewählt, so kann das jeweilige verhinderte Vorstandsmitglied durch die anderen gewählten Vorstandsmitglieder gemeinsam vertreten werden.
 
-(9) Obmann/Obfrau, Schriftführer*in, sowie Kassier*in kann im Einvernehmen mit seinem/seiner/ihrer Stellvertreter*in Teile seiner/ihrer Aufgaben an diesen/diese schriftlich übertragen.
-Unabhängig von der Übertragung können Obmann/Obfrau, Schriftführer*in, sowie Kassier*in diese Aufgaben auch weiterhin selbst wahrnehmen. Daneben sind Obmann/Obfrau, Schriftführer*in, sowie Kassier*in jederzeit berechtigt diese Übertragung schriftlich zu widerrufen.
+(9) Obmann/Obfrau, Schriftführer\*in, sowie Kassier\*in kann im Einvernehmen mit seinem/seiner/ihrer Stellvertreter\*in Teile seiner/ihrer Aufgaben an diesen/diese schriftlich übertragen.
+Unabhängig von der Übertragung können Obmann/Obfrau, Schriftführer\*in, sowie Kassier\*in diese Aufgaben auch weiterhin selbst wahrnehmen. Daneben sind Obmann/Obfrau, Schriftführer\*in, sowie Kassier\*in jederzeit berechtigt diese Übertragung schriftlich zu widerrufen.
 
 ## § 14: Rechnungsprüfung
 
-(1) Zwei Rechnungsprüfer*innen werden von der Generalversammlung auf die Dauer von einem Jahr gewählt. Eine Wiederwahl ist möglich. Die Rechnungsprüfer dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Prüfung ist.
+(1) Zwei Rechnungsprüfer\*innen werden von der Generalversammlung auf die Dauer von einem Jahr gewählt. Eine Wiederwahl ist möglich. Die Rechnungsprüfer dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Prüfung ist.
 
-(2) Den Rechnungsprüfer*innen obliegt die laufende Geschäftskontrolle sowie die Prüfung der Finanzgebarung des Vereins im Hinblick auf die Ordnungsmäßigkeit der Rechnungslegung und die statutengemäße Verwendung der Mittel. Der Vorstand hat den Rechnungsprüfer*innen die erforderlichen Unterlagen vorzulegen und die erforderlichen Auskünfte zu erteilen. Die Rechnungsprüfer*innen haben dem Vorstand über das Ergebnis der Prüfung zu berichten.
+(2) Den Rechnungsprüfer\*innen obliegt die laufende Geschäftskontrolle sowie die Prüfung der Finanzgebarung des Vereins im Hinblick auf die Ordnungsmäßigkeit der Rechnungslegung und die statutengemäße Verwendung der Mittel. Der Vorstand hat den Rechnungsprüfer\*innen die erforderlichen Unterlagen vorzulegen und die erforderlichen Auskünfte zu erteilen. Die Rechnungsprüfer\*innen haben dem Vorstand über das Ergebnis der Prüfung zu berichten.
 
-(3) Rechtsgeschäfte zwischen Rechnungsprüfer*innen und Verein bedürfen der Genehmigung durch die Generalversammlung. Im Übrigen gelten für die Rechnungsprüfer*innen die Bestimmungen des § 11 Abs. 8 bis 10 sinngemäß.
+(3) Rechtsgeschäfte zwischen Rechnungsprüfer\*innen und Verein bedürfen der Genehmigung durch die Generalversammlung. Im Übrigen gelten für die Rechnungsprüfer\*innen die Bestimmungen des § 11 Abs. 8 bis 10 sinngemäß.
 
-(4) Die Funktionen als Rechnungsprüfer*innen werden grundsätzlich ehrenamtlich und unentgeltlich ausgeführt.
+(4) Die Funktionen als Rechnungsprüfer\*innen werden grundsätzlich ehrenamtlich und unentgeltlich ausgeführt.
 
 
 ## § 15: Schiedsgericht
 
 (1) Zur Schlichtung von allen aus dem Vereinsverhältnis entstehenden Streitigkeiten ist das vereinsinterne Schiedsgericht berufen. Es ist eine Schlichtungseinrichtung im Sinne des Vereinsgesetzes 2002 und kein Schiedsgericht nach den §§ 577 ff ZPO.
 
-(2) Das Schiedsgericht setzt sich aus drei ordentlichen Vereinsmitgliedern zusammen. Es wird derart gebildet, dass ein Streitteil dem Vorstand ein Mitglied als Schiedsrichter*in schriftlich namhaft macht. Über Aufforderung durch den Vorstand binnen sieben Tagen macht der andere Streitteil innerhalb von 14 Tagen seinerseits ein Mitglied des Schiedsgerichts namhaft. Nach Verständigung durch den Vorstand innerhalb von sieben Tagen wählen die namhaft gemachten Schiedsrichter*innen binnen weiterer 14 Tage ein drittes ordentliches Mitglied zum/zur Vorsitzenden des Schiedsgerichts. Bei Stimmengleichheit entscheidet unter den Vorgeschlagenen das Los. Die Mitglieder des Schiedsgerichts dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Streitigkeit ist.
+(2) Das Schiedsgericht setzt sich aus drei ordentlichen Vereinsmitgliedern zusammen. Es wird derart gebildet, dass ein Streitteil dem Vorstand ein Mitglied als Schiedsrichter\*in schriftlich namhaft macht. Über Aufforderung durch den Vorstand binnen sieben Tagen macht der andere Streitteil innerhalb von 14 Tagen seinerseits ein Mitglied des Schiedsgerichts namhaft. Nach Verständigung durch den Vorstand innerhalb von sieben Tagen wählen die namhaft gemachten Schiedsrichter\*innen binnen weiterer 14 Tage ein drittes ordentliches Mitglied zum/zur Vorsitzenden des Schiedsgerichts. Bei Stimmengleichheit entscheidet unter den Vorgeschlagenen das Los. Die Mitglieder des Schiedsgerichts dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Streitigkeit ist.
 
 (3) Das Schiedsgericht fällt seine Entscheidung nach Gewährung beiderseitigen Gehörs bei Anwesenheit aller seiner Mitglieder mit einfacher Stimmenmehrheit. Es entscheidet nach bestem Wissen und Gewissen. Seine Entscheidungen sind vereinsintern endgültig.
 
