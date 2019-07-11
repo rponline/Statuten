@@ -128,7 +128,7 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
 
 (d) Beschluss eines/einer oder mehrerer Rechnungsprüfer\*innen (§ 21 Abs.5 zweiter Sat zVereinsG, § 14 Abs.2 dritter Satz dieser Statuten),
 
-(e) Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten)
+(e) Beschluss eines/einer gerichtlich bestellten Kurators/Kuratorin (§ 11 Abs. 2 letzter Satz dieser Statuten)
 
 binnen vier Wochen statt.
 
