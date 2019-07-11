@@ -144,7 +144,7 @@ binnen vier Wochen statt.
 
 (8) Die Wahlen und die Beschlussfassungen in der Generalversammlung erfolgen in der Regel mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Beschlüsse, mit denen das Statut des Vereins geändert oder der Verein aufgelöst werden soll, bedürfen jedoch einer qualifizierten Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen.
 
-(9) Den Vorsitz in der Generalversammlung führt ein von der Generalversammlung bestimmter Moderator.
+(9) Den Vorsitz in der Generalversammlung führt ein/e von der Generalversammlung bestimmte/r Moderator*in.
 
 
 ## § 10: Aufgaben der Generalversammlung
